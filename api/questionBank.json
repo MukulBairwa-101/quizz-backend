@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "question": "Who is the most valuable player of november 2021 in cricket",
+        "A":"Daryl Mitchell",
+        "B":"David Warner",
+        "C":"Mitchell Marsh",
+        "D":"Virat Kohli",
+        "Correct":"David Warner"
+    },
+    {
+        "id": 2,
+        "question": "Who Won the Orange cap in the ipl 2021",
+        "A":"Ruturaj Gaikwad",
+        "B":"Shikhar Dhawan",
+        "C":"KL Rahul",
+        "D":"Faf du Plessis",
+        "Correct":"Ruturaj Gaikwad"
+    }
+]
